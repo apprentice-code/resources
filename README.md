@@ -22,7 +22,7 @@
 - [ ] Download text editor
 - [ ] Schedule your weekly mentor meetings
 
-### 1. Create a Slack Account
+### 1. [ ] Create a Slack Account
 Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students. We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
 
 #### Post a quick introduction in the #introductions channel
