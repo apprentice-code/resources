@@ -30,7 +30,7 @@ Slack is the tool we use for chat communication. We’ll use it primarily for an
 Once you're set up in Slack, post in the #introductions channel and tell everyone about yourself! _Quick tip: to insert a GIF, type `/giphy` + any word (example: `/giphy hello`) and send the message._
 
 ### 2. Creating a Zoom account
-Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. Use this [https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac](help document) to create a free Zoom account and download the software to use on your Mac or PC.
+Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. Use this [help document](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac) to create a free Zoom account and download the software to use on your Mac or PC.
 
 ### 3. Download text editor for coding
 **NEED COPY**
