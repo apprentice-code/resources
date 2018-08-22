@@ -27,7 +27,7 @@
 Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students. We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
 
 #### > Post a quick introduction in the #introductions channel
-Once you're set up in Slack, post in the #introductions channel and tell everyone about yourself! _Quick tip: to insert a GIF, type “/giphy” + any word (example: /giphy hello) and send the message._
+Once you're set up in Slack, post in the #introductions channel and tell everyone about yourself! _Quick tip: to insert a GIF, type `/giphy` + any word (example: `/giphy hello`) and send the message._
 
 ### 2. Creating a Zoom account
 Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. Use this [https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac](help document) to create a free Zoom account and download the software to use on your Mac or PC.
