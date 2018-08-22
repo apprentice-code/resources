@@ -14,11 +14,13 @@ If you have time during your weekly meeting with your mentor, you can both work 
 ### Extension
 If you’re feeling ambitious, you can use the instructions provided in the extension section to keep learning and get a head start on next week’s assignment.
 
-## Assignment
+---
+
+## Assignments
 You’ll find a link in your weekly lesson to the assignment for that week. Follow the instructions provided, and then publish your work to Github so it can be reviewed by your mentor. 
 
 ### Grading
-Once your work has been submitted to Github, your mentor will be notified and will review it to assign a grade with some comments. 
+Once your work has been submitted to Github, your mentor will be notified and will review it to provide a suggested grade with some comments.
 
 ---
 
