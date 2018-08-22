@@ -17,24 +17,22 @@
 <a name="getting-started"></a>
 ## Getting Started
 
-- [ ] Create a Slack Account
-- [ ] Create a Zoom Account and download the Zoom software
-- [ ] Download text editor
+### Checklist
+- [ ] Create a Slack account
+- [ ] Create a Zoom account
+- [ ] Download text editor for coding
 - [ ] Schedule your weekly mentor meetings
 
-### 1. [ ] Create a Slack Account
+### 1. Creating a Slack Account
 Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students. We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
 
 #### Post a quick introduction in the #introductions channel
-Tell everyone about yourself! Quick tip: to insert a GIF, type “/giphy” + any word (example: /giphy hello) and send the message.
+Once you're set up in Slack, post in the #introductions channel and tell everyone about yourself! _Quick tip: to insert a GIF, type “/giphy” + any word (example: /giphy hello) and send the message._
 
-### 2. Zoom
-Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. 
+### 2. Creating a Zoom account
+Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. Use this [https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac](help document) to create a free Zoom account and download the software to use on your Mac or PC.
 
-#### Create a Zoom Account
-Use this [https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac](help document) to create a free Zoom account and download the software to use on your Mac or PC.
-
-### 3. Download text editor
+### 3. Download text editor for coding
 **NEED COPY**
 
 ### 4. Scheduling your weekly mentor meeting
