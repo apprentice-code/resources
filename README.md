@@ -26,7 +26,7 @@
 ### 1. Creating a Slack Account
 Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students. We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
 
-#### Post a quick introduction in the #introductions channel
+#### > Post a quick introduction in the #introductions channel
 Once you're set up in Slack, post in the #introductions channel and tell everyone about yourself! _Quick tip: to insert a GIF, type “/giphy” + any word (example: /giphy hello) and send the message._
 
 ### 2. Creating a Zoom account
@@ -79,4 +79,4 @@ Your attendance at your mentor meetings is a factor in your final grade. If you 
 ## Events
 Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to discuss coding and hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
 
-View the timeline to see a list of events. 
+[View the timeline]() to see a list of events. 
