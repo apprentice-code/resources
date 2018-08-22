@@ -1,13 +1,44 @@
 # Student Handbook
 
 ## Table of Contents
-1. Program Overview
-2. Getting Started
+1. [Program Overview](#program-overview)
+2. [Getting Started](#getting-started)
 3. [Weekly Lessons](#weekly-lessons)
 4. [Assignments](#assignments)
-5. Mentor Meetings
-6. Events
+5. [Mentor Meetings](#mentor-meetings)
+6. [Events](#events)
 
+---
+
+## Program Overview
+
+---
+
+<a name="getting-started"></a>
+## Getting Started
+
+### 1. Slack
+Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students.
+
+#### Create a Slack Account
+We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
+
+#### Post a quick introduction in the #introductions channel
+Tell everyone about yourself! Quick tip: to insert a GIF, type “/giphy” + any word (example: /giphy hello) and send the message.
+
+### 2. Zoom
+Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. 
+
+#### Create a Zoom Account
+Use this [https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac](help document) to create a free Zoom account and download the software to use on your Mac or PC.
+
+### 3. Download text editor
+**NEED COPY**
+
+### 4. Scheduling your weekly mentor meeting
+At the beginning of the program, your mentor will reach out via Slack or email to introduce themselves and work with you to find a good time each week for your video meetings.
+
+---
 
 <a name="weekly-lessons"></a>
 ## Weekly Lessons
