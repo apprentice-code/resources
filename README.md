@@ -23,13 +23,13 @@ Once your work has been submitted to Github, your mentor will be notified and wi
 ---
 
 ## Mentor Meetings
-Your weekly meeting with your mentor is an opportunity to review what you’re learning, ask them any questions, and potentially work with them on the “mentor guided learning” section of your weekly lesson. 
+Your weekly meeting with your mentor is an opportunity to review what you’re learning, ask them any questions, and work with them on the “mentor guided learning” section of your weekly lesson. 
 
 ### Preparing for your meeting
 Make sure you’ve completed all, or most, of your self-guided learning for that week so you can use the time with your mentor to review what you’ve learned and ask them questions. 
 
 ### Cancellation
-Your attendance at your mentor meetings is a factor in your final grade, so if you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
+Your attendance at your mentor meetings is a factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
 
 ---  
 
