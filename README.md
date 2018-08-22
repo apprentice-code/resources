@@ -21,7 +21,7 @@ Learn more about [lessons](#weekly-lessons) and [assignments](#assignments).
 ### Mentor Meetings
 At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the program. Each week, you'll meet over video chat with your mentor to review what you’re learning, ask them any questions, and work with them on education coding projects. 
 
-[Learn more](#mentor-meetings) about mentor meetings.
+Learn more about [mentor meetings](#mentor-meetings).
 
 ### Events
 Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
