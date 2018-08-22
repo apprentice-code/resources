@@ -10,7 +10,26 @@
 
 ---
 
+<a name="program-overview"></a>
 ## Program Overview
+
+### Lessons + Assignments
+Code Apprentice works a lot like school. Each week, you'll have coding lessons using an online curriculum we provide. After completion of the learning material, you'll work on an assignment that will help you put into practice the coding skills you just learned. [Lessons](https://github.com/apprentice-code/curriculum/tree/master/lessons) can be found in the [curriculum folder](https://github.com/apprentice-code/curriculum) here on Github. 
+
+Learn more about [lessons](#weekly-lessons) and [assignments](#assignments).
+
+### Mentor Meetings
+At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the program. Each week, you'll meet over video chat with your mentor to review what you’re learning, ask them any questions, and work with them on education coding projects. 
+
+[Learn more](#mentor-meetings) about mentor meetings.
+
+### Events
+Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
+
+[View the timeline]() to see a list of events. 
+
+### Grading
+Your participation in Code Apprentice is graded. 
 
 ---
 
@@ -66,17 +85,9 @@ Once your work has been submitted to Github, your mentor will be notified and wi
 ---
 <a name="mentor-meetings"></a>
 ## Mentor Meetings
-Your weekly meeting with your mentor is an opportunity to review what you’re learning, ask them any questions, and work with them on the “mentor guided learning” section of your weekly lesson. 
 
 ### Preparing for your meeting
 Make sure you’ve completed all, or most, of your self-guided learning for that week so you can use the time with your mentor to review what you’ve learned and ask them questions. 
 
 ### Cancellation
 Your attendance at your mentor meetings is a factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
-
----  
-<a name="events"></a>
-## Events
-Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
-
-[View the timeline]() to see a list of events. 
