@@ -43,16 +43,16 @@ At the beginning of the program, your mentor will reach out via Slack or email t
 <a name="weekly-lessons"></a>
 ## Weekly Lessons
 
-### Self Guided Learning
+### 1. Self Guided Learning
 Your learning material for the week. Your Assignment and Mentor-Guided Learning project are designed to test your knowledge of what was covered.
   
-### Resources
+### 2. Resources
 If you’d like to learn more about what was covered in the Self-Guided Learning section of the lesson, we’ve provided some additional videos and articles that can help explain things further.
 
-### Mentor-Guided Learning
+### 3. Mentor-Guided Learning
 If you have time during your weekly meeting with your mentor, you can both work through this project to reinforce what you learned in the self-guided learning portion of the lesson. 
   
-### Extension
+### 4. Extension
 If you’re feeling ambitious, you can use the instructions provided in the extension section to keep learning and get a head start on next week’s assignment.
 
 ---
