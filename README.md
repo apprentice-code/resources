@@ -11,7 +11,7 @@ If you’d like to learn more about what was covered in the Self-Guided Learning
 ### Mentor-Guided Learning
 If you have time during your weekly meeting with your mentor, you can both work through this project to reinforce what you learned in the self-guided learning portion of the lesson. 
   
-### Extension*
+### Extension
 If you’re feeling ambitious, you can use the instructions provided in the extension section to keep learning and get a head start on next week’s assignment.
 
 ## Assignment
