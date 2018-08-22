@@ -1,5 +1,15 @@
 # Student Handbook
 
+## Table of Contents
+1. Program Overview
+2. Getting Started
+3. [Weekly Lessons](#weekly-lessons)
+4. [Assignments](#assignments)
+5. Mentor Meetings
+6. Events
+
+
+<a name="weekly-lessons"></a>
 ## Weekly Lessons
 
 ### Self Guided Learning
@@ -15,7 +25,7 @@ If you have time during your weekly meeting with your mentor, you can both work 
 If you’re feeling ambitious, you can use the instructions provided in the extension section to keep learning and get a head start on next week’s assignment.
 
 ---
-
+<a name="assignments"></a>
 ## Assignments
 You’ll find a link in your weekly lesson to the assignment for that week. Follow the instructions provided, and then publish your work to Github so it can be reviewed by your mentor. 
 
@@ -23,7 +33,7 @@ You’ll find a link in your weekly lesson to the assignment for that week. Foll
 Once your work has been submitted to Github, your mentor will be notified and will review it to provide a suggested grade with some comments.
 
 ---
-
+<a name="mentor-meetings"></a>
 ## Mentor Meetings
 Your weekly meeting with your mentor is an opportunity to review what you’re learning, ask them any questions, and work with them on the “mentor guided learning” section of your weekly lesson. 
 
@@ -34,7 +44,7 @@ Make sure you’ve completed all, or most, of your self-guided learning for that
 Your attendance at your mentor meetings is a factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
 
 ---  
-
+<a name="events"></a>
 ## Events
 Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to discuss coding and hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
 
