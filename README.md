@@ -7,6 +7,7 @@
 4. [Assignments](#assignments)
 5. [Mentor Meetings](#mentor-meetings)
 6. [Events](#events)
+7. [Conclusion](#conclusion)
 
 ---
 
@@ -101,3 +102,11 @@ Make sure you’ve completed all, or most, of your self-guided learning for that
 
 ### Cancellation
 Your attendance at your mentor meetings is a large factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
+
+---
+
+<a name="conclusion"></a>
+## Conclusion
+We're very excited that you chose to be a part of this program! Should you have any questions or concerns, please reach out directly to Paul Drake or Garrett Vangilder over Slack or using the following email: info@codeapprentice.tech.
+
+Happy coding! 
