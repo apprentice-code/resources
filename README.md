@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Program Overview](#program-overview)
-2. [Getting Started](#getting-started)
+2. [Getting Started Checklist](#getting-started)
 3. [Weekly Lessons](#weekly-lessons)
 4. [Assignments](#assignments)
 5. [Mentor Meetings](#mentor-meetings)
