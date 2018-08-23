@@ -19,7 +19,7 @@ Code Apprentice works a lot like school. Each week, you'll have coding lessons u
 Learn more about [lessons](#weekly-lessons) and [assignments](#assignments).
 
 ### Mentor Meetings
-At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the program. Each week, you'll meet over video chat with your mentor to review what you’re learning, ask them any questions, and work with them on education coding projects. 
+At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the semester. Each week, you'll meet over video chat with your mentor to review what you’re learning, ask them any questions, and work with them on educational coding projects. 
 
 Learn more about [mentor meetings](#mentor-meetings).
 
@@ -29,7 +29,10 @@ Throughout the semester, you and other Code Apprentice students from around the 
 [View the timeline]() to see a list of events. 
 
 ### Grading
-Your participation in Code Apprentice is graded. 
+Your final grade for Code Apprentice is based on the following factors:
+- Attending your mentor meetings each week
+- Your completion of the coding assignments and final project
+- Your level of engagement and professionalism (Ex. asking questions of your mentor, level of effort put into assignments, engagement with other students in the program)
 
 ---
 
@@ -39,6 +42,7 @@ Your participation in Code Apprentice is graded.
 ### Checklist
 - [ ] Create a Slack account
 - [ ] Create a Zoom account
+- [ ] Create a Github account
 - [ ] Download text editor for coding
 - [ ] Schedule your weekly mentor meetings
 
@@ -51,10 +55,16 @@ Once you're set up in Slack, post in the #introductions channel and tell everyon
 ### 2. Creating a Zoom account
 Zoom is app you’ll use for your weekly mentor meetings. You can video chat and share your screen so your mentor can see the code you’re working on. Use this [help document](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac) to create a free Zoom account and download the software to use on your Mac or PC.
 
-### 3. Download text editor for coding
+### 3. Creating a Github account
+Github is the app that developers use to store and share the code they're working on. When you complete a project, you'll upload your code to Github so that your mentor can review it. Use this [step-by-step guide](https://www.wikihow.com/Create-an-Account-on-GitHub) to create a free account and get started.
+
+#### > After creating your account, send us your Github username
+This is important! Make sure you send us your Github username so we can inform your mentor when you post your assignments. 
+
+### 4. Download text editor for coding
 **NEED COPY**
 
-### 4. Scheduling your weekly mentor meeting
+### 5. Scheduling your weekly mentor meeting
 At the beginning of the program, your mentor will reach out via Slack or email to introduce themselves and work with you to find a good time each week for your video meetings.
 
 ---
@@ -90,4 +100,4 @@ Once your work has been submitted to Github, your mentor will be notified and wi
 Make sure you’ve completed all, or most, of your self-guided learning for that week so you can use the time with your mentor to review what you’ve learned and ask them questions. 
 
 ### Cancellation
-Your attendance at your mentor meetings is a factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
+Your attendance at your mentor meetings is a large factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
