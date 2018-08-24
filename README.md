@@ -19,18 +19,19 @@ Code Apprentice works a lot like school. Each week, you'll have coding lessons u
 
 Learn more about [lessons](#weekly-lessons) and [assignments](#assignments).
 
-### Mentor Meetings
-At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the semester. Each week, you'll meet over video chat with your mentor to review what you’re learning, ask them any questions, and work with them on educational coding projects. 
+### Weekly meetings with a professional software developer
+At the start of the program, we'll match you with a professional developer who will be your mentor during the course of the semester. Each week, you'll meet over video chat with them to review what you’re learning, ask them any questions, and work together on educational coding projects. 
 
 Learn more about [mentor meetings](#mentor-meetings).
 
 ### Events
-Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
+Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour local tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
 
 [View the timeline]() to see a list of events. 
 
 ### Grading
 Your final grade for Code Apprentice is based on the following factors:
+- Attendance at Code Apprentice events
 - Attending your mentor meetings each week
 - Your completion of the coding assignments and final project
 - Your level of engagement and professionalism (Ex. asking questions of your mentor, level of effort put into assignments, engagement with other students in the program)
