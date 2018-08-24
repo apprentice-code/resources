@@ -45,7 +45,6 @@ Your final grade for Code Apprentice is based on the following factors:
 - [ ] Create a Slack account
 - [ ] Create a Zoom account
 - [ ] Create a Github account
-- [ ] Download text editor for coding
 - [ ] Schedule your weekly mentor meetings
 
 ### 1. Creating a Slack Account
@@ -63,10 +62,7 @@ Github is the app that developers use to store and share the code they're workin
 #### > After creating your account, send us your Github username
 This is important! Make sure you send us your Github username so we can inform your mentor when you post your assignments. 
 
-### 4. Download text editor for coding
-**NEED COPY**
-
-### 5. Scheduling your weekly mentor meeting
+### 4. Scheduling your weekly mentor meeting
 At the beginning of the program, your mentor will reach out via Slack or email to introduce themselves and work with you to find a good time each week for your video meetings.
 
 ---
