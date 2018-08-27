@@ -1,4 +1,4 @@
-# Code Apprentice Mentor Handbook
+# Mentor Handbook
 
 ## Table of Contents
 - [Program Overview](#program-overview)
@@ -25,10 +25,10 @@ While the goal of a Code Apprentice mentorship is to ultimately inspire students
 At the end of each week, we'll send you an email with a link to your reporting dashboard. There, you'll see a form asking if you met with your student that week. If you were unable to meet with your student, please leave a comment with a reason why.
 
 #### Assignment Report
-Once your student has completed their weekly assignment and submitted it to Github, we'll notify you via email with a link to your reporting dashboard. There, you'll see a link to their assignment in Github, a grading scale from 1-10, and an additional comment section. 
+Once your student has completed their weekly assignment and submitted it to Github, we'll notify you via email with a link to your reporting dashboard. There, you'll see a link to their assignment in Github, a grading scale from 1-10, and an additional comment section to provide encouragement or advice to the student when they receive their report. 
 
 #### Grading
-Grade your student's assignment on the following factors:
+Ultimately, the school determines the student's final grade based on the reports provided to them by Code Apprentice. For each assignment, provide your suggested 1-10 grade using the following factors:
 
 - Timely completion of the assignment
 - Level of engagement _(Did your student ask questions if they got stuck? Did they put in the necessary effort?)_
