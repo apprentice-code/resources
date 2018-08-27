@@ -10,13 +10,13 @@
 ## Program Overview
 
 ### Goal
-The ultimate goal of a Code Apprentice mentorship is to inspire your student to pursue a career in tech. Each week, you have an opportunity to make coding more accessible and show them the exciting things that you're working on so they can get an idea of the impact they can make on the world through code.
+The ultimate goal of a Code Apprentice mentorship is to inspire your student to pursue a career in tech. You can do this by helping them with their coding education, showing them the cool things you're building as a part of your job, and helping them understand the "why" behind software.
 
 ### Weekly Meetings
 Each week, you'll meet with your student for 2 hours over video chat to review what they've been learning, answer any questions, and, should you desire, work with them on simple coding projects provided in the "Mentor Guided Learning" section of their lesson plan.
 
 ### Curriculum
-We've provided the students with a [curriculum](https://github.com/apprentice-code/curriculum) that covers the basics of HTML, CSS, and Javascript. Each week, your student will learn a few concepts and then put their knowledge to work with a [coding assignment](https://github.com/apprentice-code/curriculum/tree/master/assignments). Once they've submitted their assignment to Github, you'll be notified by email so you can check their work and see how they did. 
+We've provided the students with a [curriculum](https://github.com/apprentice-code/curriculum/lessons) that covers the basics of HTML, CSS, and Javascript. Each week, your student will learn a few concepts and then put their knowledge to work with a [coding assignment](https://github.com/apprentice-code/curriculum/tree/master/assignments). Once they've submitted their assignment to Github, you'll be notified by email so you can check their work and see how they did. 
 
 ### Reporting
 While the goal of a Code Apprentice mentorship is to ultimately inspire students to pursue careers in tech, we've found that accountability is key in ensuring the student remains actively engaged in the program.  We ask that mentors keep us and the school informed of the student's progress by using a reporting tool we've developed. The following reports are sent to the school, the student's parent/guardian, and the student themselves: 
