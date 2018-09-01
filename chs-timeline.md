@@ -1,4 +1,4 @@
-# Charleston Code Apprentice Timeline
+# Event Timeline _(Charleston, SC)_
 
 ## Kickoff
 * Date/Time: September 4, 2018 at 6:30pm - 8:00pm EST
