@@ -20,7 +20,7 @@
 * Date/Time: November 14, 2018 at 6:30pm - 8:00pm EST
 * Location: BoomTown - [Directions](https://goo.gl/maps/5Uxc1i7VdgQ2)
 
-## Fall Break -- No Code Apprentice this week
+## Fall Break Week -- No Code Apprentice
 * Date(s): November 19 - 23, 2018
 
 ## Final Presentations
