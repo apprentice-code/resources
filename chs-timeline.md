@@ -1,4 +1,4 @@
-# Event Timeline _(Charleston, SC)_
+# Timeline _(Charleston, SC)_
 
 ## Kickoff
 * Date/Time: September 4, 2018 at 6:30pm - 8:00pm EST
@@ -19,6 +19,9 @@
 ## Meetup 2
 * Date/Time: November 14, 2018 at 6:30pm - 8:00pm EST
 * Location: BoomTown - [Directions](https://goo.gl/maps/5Uxc1i7VdgQ2)
+
+## Fall Break -- No Code Apprentice this week
+* Date(s): November 19 - 23, 2018
 
 ## Final Presentations
 * Date/Time: TBD
