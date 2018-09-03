@@ -46,6 +46,7 @@ Your final grade for Code Apprentice is based on the following factors:
 - [ ] Create a Zoom account
 - [ ] Create a Github account
 - [ ] Schedule your weekly mentor meetings
+- [ ] Install VS Code
 
 ### 1. Creating a Slack Account
 Slack is the tool we use for chat communication. We’ll use it primarily for announcements, but you can use it to ask questions of your mentor or just chat with other Code Apprentice students. We’ve sent a Slack invite to the email address you provided when you signed up for Code Apprentice. Follow the instructions to setup an account.
@@ -64,6 +65,9 @@ This is important! Make sure you send us your Github username so we can inform y
 
 ### 4. Scheduling your weekly mentor meeting
 At the beginning of the program, your mentor will reach out via Slack or email to introduce themselves and work with you to find a good time each week for your video meetings.
+
+### 5. Install VS Code
+All great developers have great tools. This semester we will be using vs code to write and edit our code. VS Code is an open source text editor developed by Microsoft, and it is very populat in the web developer community. You can download VS Code [here](https://code.visualstudio.com/download).
 
 ---
 
