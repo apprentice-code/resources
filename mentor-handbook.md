@@ -39,9 +39,9 @@ Ultimately, the school determines the student's final grade based on the reports
 ## Getting Started
 
 ### Checklist
-- [ ]Install Zoom
-- [ ]Log into the Slack community
-- [ ]Schedule the weekly meeting with your student
+- [ ] Install Zoom
+- [ ] Log into the Slack community
+- [ ] Schedule the weekly meeting with your student
 
 ### 1. Install Zoom
 We’re using Zoom for video chats and screen-sharing between you and your student. [Create an account](https://zoom.us/signup) and download the application.
