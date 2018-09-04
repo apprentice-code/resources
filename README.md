@@ -27,7 +27,7 @@ Learn more about [mentor meetings](#mentor-meetings).
 ### Events
 Throughout the semester, you and other Code Apprentice students from around the area will get a chance to tour local tech companies and meet together to hear talks from people in the industry on subjects like Artificial Intelligence and tech entrepreneurship. Attendance at these events will factor into your final grade and the hours needed to earn a credit.
 
-[View the timeline]() to see a list of events. 
+[View the timeline](https://github.com/apprentice-code/resources/blob/master/chs-timeline.md) to see a list of events. 
 
 ### Grading
 Your final grade for Code Apprentice is based on the following factors:
