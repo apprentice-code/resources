@@ -9,11 +9,11 @@
 * Location: JRS Coding School - [Directions](https://goo.gl/maps/AcchUNL8Fqq)
 
 ## Visit to BoomTown
-* Date/Time: October 12, 2018 at 4:00pm - 5:00pm EST
+* Date/Time: October 26, 2018 at 4:00pm - 5:00pm EST
 * Location: BoomTown - [Directions](https://goo.gl/maps/5Uxc1i7VdgQ2)
 
 ## Visit to BenefitFocus
-* Date/Time: October 26, 2018 at 4:00pm - 5:00pm EST
+* Date/Time: November 9, 2018 at 4:00pm - 5:00pm EST
 * Location: BenefitFocus - [Directions](https://goo.gl/maps/QEiAk4Fj19o)
 
 ## Meetup 2
