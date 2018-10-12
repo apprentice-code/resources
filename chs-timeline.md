@@ -13,7 +13,7 @@
 * Location: BoomTown - [Directions](https://goo.gl/maps/5Uxc1i7VdgQ2)
 
 ## Visit to BenefitFocus
-* Date/Time: November 9, 2018 at 4:00pm - 5:00pm EST
+* Date/Time: November 7, 2018 at 4:00pm - 5:00pm EST
 * Location: BenefitFocus - [Directions](https://goo.gl/maps/QEiAk4Fj19o)
 
 ## Meetup 2
