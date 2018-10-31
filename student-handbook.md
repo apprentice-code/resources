@@ -104,7 +104,7 @@ Should you not cancel before a 24 hour notice to your mentor that will be docume
 The second time that you cancel or do not showup to a previously planned meeting with your mentor you will be removed from the program. Should you be a homeschool student you will be refunded according to our refund policy.
 
 ### Quitting 
-If you would like to be removed from the program you must send an email to info@codeapprentice.tech with a valid removal reason. If you are a student at a partnering school your removal will be contingent upon approval from the teacher of record. If you are a homeschool student your removal will be contingent upon approval from the document guardian, if removed you will be refunded according to our refund policy.
+If you would like to be removed from the program you must send an email to info@codeapprentice.tech with a valid removal reason. If you are a student at a partnering school your removal will be contingent upon approval from the teacher of record. If you are a homeschool student your removal will be contingent upon approval from your parent/guardian, if removed you will be refunded according to our refund policy.
 
 ---
 
