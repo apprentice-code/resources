@@ -85,7 +85,21 @@ If you’re feeling ambitious, you can use the instructions provided in the exte
 You’ll find a link in your weekly lesson to the assignment for that week. Follow the instructions provided, and then publish your work to Github so it can be reviewed by your mentor. 
 
 ### Grading
-Once your work has been submitted to Github, your mentor will be notified and will review it to provide a suggested grade with some comments.
+Your grade is a composite score from three categories.  
+1. Classwork
+1. Mentor Meetings 
+1. Comprehensive Final
+
+Your final grade will be calculated using the rubric below. 
+
+### Grading Rubric
+| Category              | Points Earned       | Points Possible|
+|-----------------------|---------------------|----------------|
+| Classwork             |                     | 40             |
+| Weekly Mentor Meetings|                     | 40             |
+| Comprehensive Final   |                     | 20             |
+| Final Score           |                     | 100            |
+
 
 ---
 <a name="mentor-meetings"></a>
