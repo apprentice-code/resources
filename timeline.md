@@ -7,7 +7,7 @@
 * [Week 1 Assignment](https://github.com/apprentice-code/curriculum/blob/master/lessons/week-1.md)
 
 ## Week 2: January 28 - February 3, 2019
-* First mentor meeting
+* First Mentor Meeting
 * [Week 2 Lesson](https://github.com/apprentice-code/curriculum/blob/master/lessons/week-1.md)
 * [Week 2 Assignment](https://github.com/apprentice-code/curriculum/blob/master/lessons/week-1.md)
 
