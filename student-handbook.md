@@ -99,9 +99,9 @@ Your final grade will be calculated using the rubric below.
 ### Grading Rubric
 | Category              | Points Earned       | Points Possible|
 |-----------------------|---------------------|----------------|
-| Classwork             |                     | 40             |
-| Weekly Mentor Meetings|                     | 40             |
-| Comprehensive Final   |                     | 20             |
+| Classwork             |                     | 33             |
+| Weekly Mentor Meetings|                     | 33             |
+| Comprehensive Final   |                     | 33             |
 | Final Score           |                     | 100            |
 
 
