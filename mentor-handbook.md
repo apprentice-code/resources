@@ -28,7 +28,7 @@ At the end of each week, we'll send you an email with a link to your reporting d
 
 * If your student cannot meet with you at day and time you agreed to, they are required to notify you in advance and provide evidence that their absence is warranted. 
 
-* * If this has not occurred, and the student is absent from your meeitng, please indicate this on the report using the field provided. The student will receive a deduction to their grade and a verbal warning.
+* * If this has not occurred, and the student is absent from your meeting, please indicate this on the report using the field provided. The student will receive a deduction to their grade and a verbal warning.
 
 * * After 3 unexcused absences, the student will be removed from the program.
 
