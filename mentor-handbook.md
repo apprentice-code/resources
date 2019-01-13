@@ -22,7 +22,16 @@ We've provided the students with a [curriculum](https://github.com/apprentice-co
 While the goal of a Code Apprentice mentorship is to ultimately inspire students to pursue careers in tech, we've found that accountability is key in ensuring the student remains actively engaged in the program.  We ask that mentors keep us and the school informed of the student's progress by using a reporting tool we've developed. The following reports are sent to the school, the student's parent/guardian, and the student themselves: 
 
 #### Weekly Meeting Report
-At the end of each week, we'll send you an email with a link to your reporting dashboard. There, you'll see a form asking if you met with your student that week. If you were unable to meet with your student, please leave a comment with a reason why.
+At the end of each week, we'll send you an email with a link to your reporting dashboard. There, you'll see a form asking if you met with your student that week. 
+
+* If you're unable to meet with your student, please indicate this on the report
+
+* If your student cannot meet with you at day and time you agreed to, they are required to notify you in advance and provide evidence that their absence is warranted. 
+
+* * If this has not occurred, and the student is absent from your meeitng, please indicate this on the report using the field provided. The student will receive a deduction to their grade and a verbal warning.
+
+* * After 3 unexcused absences, the student will be removed from the program.
+
 
 #### Assignment Report
 Once your student has completed their weekly assignment and submitted it to Github, we'll notify you via email with a link to your reporting dashboard. There, you'll see a link to their assignment in Github, a grading scale from 1-10, and an additional comment section to provide encouragement or advice to the student when they receive their report. 
