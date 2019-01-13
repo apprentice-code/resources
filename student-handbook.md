@@ -106,14 +106,18 @@ Your final grade will be calculated using the rubric below.
 ### Preparing for your meeting
 Make sure you’ve completed all, or most, of your self-guided learning for that week so you can use the time with your mentor to review what you’ve learned and ask them questions.
 
-### Cancellation
-Your attendance at your mentor meetings is a large factor in your final grade. If you have to cancel for any reason please notify your mentor in advance and provide a reason for cancellation.
+### Absence from a mentor meeting
+Attendance at your mentor meetings accounts for 1/3 of your final grade. If you cannot attend a meeting with your mentor you need to do the following:
 
-To cancel, notify your mentor by Slack and include either Paul Drake or Garrett Vangilder in your Slack message. You will not receive credit for the meeting, and even with a valid cancellation of prior to 24 hours your final grade will be docked due to the in-person nature of this program.
+1. Notify your mentor as soon as possible
+2. Provide evidence to your mentor that your absence is warranted
+3. Notify the Code Apprentice teacher of record at your school
 
-Failure to notify your mentor of cancellation 24 hours prior to your meeting will be documented by the Code Apprentice team. You will receive a warning the first time this happens and no action will be taken other than a verbal and written warning sent to yourself and your parent/guardian.
+If you're unable to attend a meeting with your mentor and do not follow the steps above it will be documented by the Code Apprentice team. 
 
-The second time that you cancel or do not show up to a previously planned meeting with your mentor you will be removed from the program. Should you be a homeschool student you will be refunded according to our refund policy.
+* The first time this happens you will receive a deduction to your grade, and a verbal and written warning sent to yourself and your parent/guardian
+
+* The second time that you cancel or do not show up to a previously planned meeting with your mentor you will be removed from the program.
 
 ### Quitting
 If you would like to be removed from the program you must send an email to info@codeapprentice.tech with a valid removal reason. If you are a student at a partnering school your removal will be contingent upon approval from the teacher of record. If you are a homeschool student your removal will be contingent upon approval from your parent/guardian, if removed you will be refunded according to our refund policy.
