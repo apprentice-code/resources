@@ -1,5 +1,19 @@
-# Teacher of Record Handbook
+# Student Handbook
 
+## Table of Contents
+1. [Program Overview](#program-overview)
+2. [Getting Started Checklist](#getting-started)
+3. [Reporting on Student Progress](#weekly-lessons)
+
+----
+
+<a name="program-overview"></a>
+## Program Overview
+
+
+----
+
+<a name="getting-started"></a>
 ## Getting Started Checklist
 
 ### 1. Sign teacher of record agreement form
@@ -12,7 +26,16 @@ Slack is the tool we use for chat communication. You can use it to connect with 
 
 We’ve sent a Slack invite to the email address you provided. Follow the instructions to setup an account. If you did not receive an invite, or have any questions about Slack, send an email to info@codeapprentice.tech
 
+### 3. Ensure that all students and their parent/guardian have signed the Code Apprentice agreement forms
+Before students can participate in the program, they and their parent/guardian need to sign the Code Apprentice specific agreement forms. 
 
+* [Student agreement form](https://docs.google.com/document/d/14ZQiQ0HDv0fljBOpuvU4QAh-Fj1vU51OKEPeAsaxvHc/edit?usp=sharing)
+
+* [Parent/guardian agreement form](https://docs.google.com/document/d/1iJT8OW2B-q0VWJ23LCU8grc-vcVhXlgk6ipEYIU-kSU/edit?usp=sharing)
+
+----
+
+<a name="getting-started"></a>
 ## Reporting on student progress
 
 During the course of the semester, we ask that the teacher of record ensure that students are:
