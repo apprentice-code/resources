@@ -4,13 +4,14 @@
 1. [Program Overview](#program-overview)
 2. [Getting Started Checklist](#getting-started)
 3. [Reporting on Student Progress](#weekly-lessons)
+4. [Conclusion](#conclusion)
 
 ----
 
 <a name="program-overview"></a>
 ## Program Overview
 
-Thanks for agreeing to be the teacher of record for Code Apprentice at your school! Code Apprentice is a 14-week program that teaches high school students how to build web applications with 1:1 mentorship from a dedicated coding mentor. 
+Code Apprentice is a 14-week program that teaches high school students how to build web applications with 1:1 mentorship from a dedicated coding mentor. 
 
 Each week, students: 
 
@@ -73,3 +74,8 @@ On the report, there’s a section for “Assignments Completed.” This contain
 
 ### How are students doing on their assignments?
 The avg. assignment grade section is an average of all grades given on student’s assignments. You can see an a list of all grades given on the student’s report profile.
+
+----
+
+## Conclusion
+Thank you for agreeing to be the teacher of record for Code Apprentice at your school! If you have any questions or concerns, please contact Paul Drake at info@codeapprentice.tech
