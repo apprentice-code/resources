@@ -10,6 +10,15 @@
 <a name="program-overview"></a>
 ## Program Overview
 
+Thanks for agreeing to be the teacher of record for Code Apprentice at your school! Code Apprentice is a 14-week program that teaches high school students how to build web applications with 1:1 mentorship from a dedicated coding mentor. 
+
+Each week, students: 
+
+1. Learn coding fundamentals (HTML, CSS, and Javascript) using an online, self-driven curriculum 
+2. Complete a coding assignment to put into practice the skills they’re learning 
+3. Meet over video chat with their coding mentor who can answer any questions and work them on coding projects 
+
+At the end of the 14 weeks, students will work on a final project to combine all of the skills that they have learned.
 
 ----
 
