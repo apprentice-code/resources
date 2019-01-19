@@ -43,6 +43,8 @@ Before students can participate in the program, they and their parent/guardian n
 
 * [Parent/guardian agreement form](https://docs.google.com/document/d/1iJT8OW2B-q0VWJ23LCU8grc-vcVhXlgk6ipEYIU-kSU/edit?usp=sharing)
 
+**>> Once a student and their parent/guardian have signed the forms, send a photo of each signed copy to info@codeapprentice.tech**
+
 ----
 
 <a name="getting-started"></a>
