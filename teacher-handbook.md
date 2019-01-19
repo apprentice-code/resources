@@ -55,7 +55,7 @@ During the course of the semester, we ask that the teacher of record ensure that
 
 To help, we’ve created a software tool that allows the mentors to submit reports on their student’s progress. You’ll receive a link to this report each week at the email address you provided. 
 
-The report will answer the following questions:
+**The report will answer the following questions:**
 
 ### How is the student doing, overall?
 The **total grade** part of the report should give you a good idea, at a glance, of how a student is doing in the program. This is calculated from the grades their getting on their assignments as well as their attendance at their scheduled mentor meetings.
