@@ -52,7 +52,7 @@ The report will answer the following questions:
 The **total grade** part of the report should give you a good idea, at a glance, of how a student is doing in the program. This is calculated from the grades their getting on their assignments as well as their attendance at their scheduled mentor meetings.
 
 ### Are students meeting with their mentor?
-The **mentor meetings** section of the report shows you how many meetings the student has attended out of the total number of meetings. 
+The **Meetings** section of the report shows you how many meetings the student has attended out of the total number of meetings. 
 
 Mentors can indicate if the student was absent from their meeting. If the student was absent from their meeting and provided no notice or proof their absence was merited, this is displayed in the **Unexcused Absences** portion of the report. 
 
