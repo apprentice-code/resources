@@ -51,7 +51,7 @@ During the course of the semester, we ask that the teacher of record ensure that
 
 * meeting with weekly with their mentor and 
 
-*completing their assignments. 
+* completing the coding assignment given to them
 
 To help, we’ve created a software tool that allows the mentors to submit reports on their student’s progress. You’ll receive a link to this report each week at the email address you provided. 
 
