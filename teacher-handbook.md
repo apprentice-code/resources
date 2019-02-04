@@ -1,4 +1,4 @@
-# Student Handbook
+# Teacher Handbook
 
 ## Table of Contents
 1. [Program Overview](#program-overview)
