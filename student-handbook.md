@@ -111,7 +111,7 @@ Attendance at your mentor meetings accounts for 1/3 of your final grade. If you 
 
 1. Notify your mentor as soon as possible
 2. Provide evidence to your mentor that your absence is warranted
-3. Notify the Code Apprentice teacher of record at your school
+3. Notify the Code Apprentice teacher of record at your school (if applicable)
 
 If you're unable to attend a meeting with your mentor and _**do not**_ follow the steps above it will be documented by the Code Apprentice team. 
 
